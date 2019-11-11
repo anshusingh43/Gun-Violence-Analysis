@@ -1,7 +1,7 @@
 ## Tableau Project
 This is the visualization project where I tried to find some answer on the gun-violence dataset .
 
-This dataset is taken from kaggle. It consist of 2M+ data from the year *2013-2018* for **The United States of America**( although there isn't much data from 2013 ). The datset includes features like -
+This dataset is taken from kaggle. It consist of 2M+ data from the year *2013-2018* for **The United States of America**( although there isn't much data from 2013 ). The **_dataset_** includes features like -
 
 1. Incident id
 2. Date
@@ -12,7 +12,7 @@ This dataset is taken from kaggle. It consist of 2M+ data from the year *2013-20
 7. Number of injuries ( N_injured )
 8. Gun_type and so on.
 
-The questions I am trying to answer is -
+The **_questions_** I am trying to answer is -
 
 1. Start with very simple one, which states are worst affected by the gun violence?
 2. What percentage of people get killed and does the number of killing increases with the increase in the incident reported?
