@@ -1,7 +1,7 @@
 ## Tableau Project
 This is the visualization project where I tried to find some answer on the gun-violence dataset .
 
-This dataset is taken from kaggle. It consist of 2M+ data from the year *2013-2018* for **The United States of America**( although there isn't much data from 2013 ). The **_dataset_** includes features like -
+This dataset is taken from kaggle. It consist of 2M+ data from the year **_2013-2018_** for **The United States of America**( although there isn't much data from 2013 ). The **_dataset_** includes features like -
 
 1. Incident id
 2. Date
@@ -23,11 +23,11 @@ The **_questions_** I am trying to answer is -
 7. Is there any common reason I can found in majority of the incidents reported?
 and many more...
 
-I have build a Tableau Dashboard and try to answer as many questions as I can.
+I have build a **_Tableau Dashboard_** and try to answer as many questions as I can.
 
 ![Dashboard](screenshots/Dashboard.png)
 
-You can check my presentation too if you are too a curious mind. I am still working on this set, hopefully will find a lot of interesting facts and answers using it.
+You can check my **_presentation_** too if you are too a curious mind. I am still working on this set, hopefully will find a lot of interesting facts and answers using it.
 
 Also, you can explore more about this visualization on my [Tableau](https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates) page.
 
