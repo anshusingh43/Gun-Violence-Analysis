@@ -1,7 +1,7 @@
 ## Tableau Project
 This is the visualization project where I tried to find some answer on the gun-violence dataset .
 
-This dataset is taken from kaggle. It consist of 2M+ data from the year 2013-2018 for The United States of America( although there isn't much data from 2013 ). The datset includes features like -
+This dataset is taken from kaggle. It consist of 2M+ data from the year *2013-2018* for **The United States of America**( although there isn't much data from 2013 ). The datset includes features like -
 
 1. Incident id
 2. Date
@@ -29,8 +29,6 @@ I have build a Tableau Dashboard and try to answer as many questions as I can.
 
 I have my presentation too if you would like to check. I am still working on it, hopefully will find a lot of interesting facts and answewrs using this dataset.
 
-Also, if you would love to explore more about this visualization on Tableau, here is the link -
-
-https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates
+Also, if you would love to explore more about this visualization on my [Tableau](https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates) page.
 
 Thank you for stopping by!
