@@ -29,4 +29,8 @@ I have build a Tableau Dashboard and try to answer as many questions as I can.
 
 I have my presentation too if you would like to check. I am still working on it, hopefully will find a lot of interesting facts and answewrs using this dataset.
 
+Also, if you would love to explore more about this visualization on Tableau, here is the link -
+
+https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates
+
 Thank you for stopping by!
