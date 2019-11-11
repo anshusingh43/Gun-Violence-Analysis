@@ -27,8 +27,8 @@ I have build a Tableau Dashboard and try to answer as many questions as I can.
 
 ![Dashboard](screenshots/Dashboard.png)
 
-I have my presentation too if you would like to check. I am still working on it, hopefully will find a lot of interesting facts and answewrs using this dataset.
+You can check my presentation too if you are too a curious mind. I am still working on this set, hopefully will find a lot of interesting facts and answers using it.
 
-Also, if you would love to explore more about this visualization on my [Tableau](https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates) page.
+Also, you can explore more about this visualization on my [Tableau](https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates) page.
 
 Thank you for stopping by!
