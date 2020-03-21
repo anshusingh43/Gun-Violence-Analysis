@@ -29,6 +29,8 @@ I have build a **_Tableau Dashboard_** and try to answer as many questions as I 
 
 You can check my **_presentation_** too if you are too a curious mind. I am still working on this set, hopefully will find a lot of interesting facts and answers using it.
 
+If you wonder where the dataset is, well, since it was too large, I was not able to upload it but if you want to access it, you can mail at anshusingh7091994@gmail.com and I will forward the same.
+
 Also, you can explore more about this visualization on my [Tableau](https://public.tableau.com/profile/anshusingh#!/vizhome/TrendinGunViolenceUSA/Patternindeathbydates) page.
 
 Thank you for stopping by!
